@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analysis - Excel
+# Coffee Shop Sales Analysis
 Excel-based coffee shop sales analysis using XLOOKUP, INDEX-MATCH, IF, Nested IF's, Pivot Tables, and an interactive dashboard.
 
 ## Objective
@@ -45,7 +45,7 @@ As part of strengthening my Excel skills, I worked on a coffee shop sales analys
   =IF(I2="Rob","Robusta",IF(I2="Exc","Excelsa",IF(I2="Ara","Arabica",IF(I2="Lib","Liberica",""))))
 
 ## Dashboard
-The Dashboard highlights sales trends for the period 2019-2022, country-wise sales for Ireland, Uunited Kingdom and United States, and identifies the top 5 customers.
+* The Dashboard highlights sales trends for the period 2019-2022, country-wise sales for Ireland, Uunited Kingdom and United States, and identifies the top 5 customers.
 
 ## Files
 * **Orders:** Contains the coffee shop transactions. Each row represents an order line for a particular product purchased by a customer.
@@ -53,4 +53,4 @@ The Dashboard highlights sales trends for the period 2019-2022, country-wise sal
 * **Customer:** Contains customer-level information used to identify the customers associated with each transaction.
 
 ## Key Learnings
-This project helped me understand how Excel functions can be combined for data preparation, and how Pivot Tables and dashboards can turn raw transactional data into meaningful business insights.
+* This project helped me understand how Excel functions can be combined for data preparation, and how Pivot Tables and dashboards can turn raw transactional data into meaningful business insights.
