@@ -48,9 +48,9 @@ As part of strengthening my Excel skills, I worked on a coffee shop sales analys
 The Dashboard highlights sales trends for the period 2019-2022, country-wise sales for Ireland, Uunited Kingdom and United States, and identifies the top 5 customers.
 
 ## Files
-Orders: Contains the coffee shop transactions. Each row represents an order line for a particular product purchased by a customer.
-Products: Contains information about the coffee types available for sale. It is used to identify product characteristics and pricing.
-Customer: Contains customer-level information used to identify the customers associated with each transaction.
+* **Orders:** Contains the coffee shop transactions. Each row represents an order line for a particular product purchased by a customer.
+* **Products:** Contains information about the coffee types available for sale. It is used to identify product characteristics and pricing.
+* **Customer:** Contains customer-level information used to identify the customers associated with each transaction.
 
 ## Key Learnings
 This project helped me understand how Excel functions can be combined for data preparation, and how Pivot Tables and dashboards can turn raw transactional data into meaningful business insights.
