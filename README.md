@@ -1,6 +1,8 @@
 # Coffee Shop Sales Analysis
 Excel-based coffee shop sales analysis using XLOOKUP, INDEX-MATCH, IF, Nested IF's, Pivot Tables, and an interactive dashboard.
 
+![Coffee Sales Dashboard](Coffee%20Sales%20Dashboard.png)
+
 ## Objective
 As part of strengthening my Excel skills, I worked on a coffee shop sales analysis project using Orders, Products, and Customers tables.
 
